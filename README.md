@@ -1,6 +1,10 @@
 # Slack Message Sender
 
-A simple Python utility to send messages to Slack channels.
+A simple Python utility to send messages to Slack channels. This project allows you to schedule messages to be sent at specific times through Slack.
+
+## Repository
+
+This project is hosted on GitHub: https://github.com/jihung-chang/slack_message_sender
 
 ## Quick Start
 
