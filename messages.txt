@@ -1,0 +1,7 @@
+2025-06-01 22:49
+"This is a scheduled message
+that will be sent at the time specified above.
+You can include multiple lines within the quotes."
+
+2025-06-01 22:50
+"This is another 1-line scheduled message that will be sent 1 minute after the first one."
